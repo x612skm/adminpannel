@@ -1,4 +1,4 @@
-
+//Till here it's cleaned-up with the commented code
 
 function App() {
   return (
